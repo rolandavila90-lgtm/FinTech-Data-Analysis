@@ -1,5 +1,6 @@
-# FinTech-Data-Analysis
-"Leveraging SQL to analyze financial datasets, focusing on transaction accuracy, salary trends, and risk-based filtering. Applying BSOA principles to financial data integrity."
+Data Analyst Salary Audit (2023)
+
+"Applying BSOA principles of data integrity and internal controls to audit average salary trends. Using SQL to verify high-value roles across specific financial hubs and remote 'Anywhere' markets."  
 
   ![Lab Screenshot](./analyst_salary_aud_sql_results.jpg) 
     #### 🔍 My Personal Findings
